@@ -2,7 +2,7 @@
 This project implements a task management system using Python. Users can add, view, complete, and delete tasks. 
 
 ## Features:
-- Task Creationg
+- Task Creation
 - Task Viewing
 - Task Completion
 - Task Deletion
